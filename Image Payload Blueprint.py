@@ -1,3 +1,5 @@
+#ENCODING PAYLOAD INTO AN IMAGE
+
 from PIL import Image
 
 def encode_image(image_path, data, output_path):
