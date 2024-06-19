@@ -29,4 +29,4 @@ Embed data within a QR code image.
 Base64 Encoding:
 Encode data in Base64 and store it in image metadata or pixel values.
 
-Example: Steganography with LSB in Python
+Example: Steganography with LSB in Python.
