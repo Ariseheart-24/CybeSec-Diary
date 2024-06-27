@@ -1,6 +1,6 @@
 When discussing "image-based payloads" in the context of cybersecurity or data encoding, it typically refers to embedding data within images for purposes such as steganography or malware delivery. Here are a few ways image-based payloads can be implemented and used:
 
-1. Steganography
+1.Steganography
 Steganography involves hiding data within an image in a way that is not easily detectable. This can be used for legitimate purposes like securely transmitting sensitive information, or maliciously to hide payloads.
 
 Methods of Steganography:
